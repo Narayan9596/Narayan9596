@@ -1,4 +1,3 @@
-![logo](https://github.com/Narayan9596/Narayan9596/commit/083221e71fe435c894565748ea829c1bc691c250)
 <h1 align="center">Hi 👋, I'm NARAYAN SHARMA</h1>
 <h3 align="center">A passionate ssoftware eng. from INDIA</h3>
 <img align ="right" alt="coding" width="400" img src="https://raw.githubusercontent.com/DamianSuess/DamianSuess/master/images/NightCoding.gif" alt="Night Coding GIF">
